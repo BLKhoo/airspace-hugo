@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: Goverment Technology <br/> & Digital Academy
+  title: Government Technology < br />  Digital Academy
   content: The place where your learning of future technologies start
   button:
     enable: true
