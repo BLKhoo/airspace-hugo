@@ -1,10 +1,9 @@
 ---
-title: 10 fold increase in the service counter capacity leveraging on the power of
-  technology
-date: 2018-09-24T05:07:10.000+00:00
+title: How To Wear Tech Gadget
+date: '2018-09-24T05:07:10.000+00:00'
 author: Mark Dinn
-image: "/images/women-2679748_1280.jpg"
-bg_image: "/images/binary-4942948_1280.jpg"
+image: images/blog/blog-post-2.jpg
+bg_image: images/featue-bg.jpg
 categories:
 - Artificial Intelligence
 tags:
