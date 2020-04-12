@@ -1,5 +1,5 @@
 baseURL = "https://futuretechnology.netlify.com"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
@@ -20,63 +20,61 @@ languageCode = "fr-fr"
 languageName = ""
 weight = 2
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
+URL = "about"
+name = "About"
+weight = 1
+[[menu.footer]]
+URL = "project"
+name = "Project"
+weight = 2
+[[menu.footer]]
+URL = "service"
+name = "Service"
+weight = 3
+[[menu.footer]]
+URL = "registration"
+name = "Registration"
+weight = 4
 [[menu.footer]]
 URL = "faq"
 name = "FAQ"
 weight = 5
 [[menu.footer]]
-URL = "pricing"
-name = "Registration"
-weight = 4
-[[menu.footer]]
-URL = "service"
-name = "Events"
-weight = 3
-[[menu.footer]]
-URL = "project"
-name = "Programmes"
-weight = 2
-[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "pricing"
-name = "Registration"
-parent = "Pages"
-weight = 1
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
+URL = "project"
+name = "Programme"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
+URL = "service"
+name = "Event"
+weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
-URL = "service"
-name = "Events"
-weight = 3
+hasChildren = true
+name = "Pages"
+weight = 5
 [[menu.main]]
-URL = "project"
-name = "Programmes"
-weight = 2
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
 [params]
 author = ""
 contact_form_action = "#"
