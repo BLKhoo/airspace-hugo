@@ -1,13 +1,13 @@
 ---
-title: How To Wear Tech Gadget
-date: '2018-09-24T05:07:10.000+00:00'
+title: Experience holodeck and not just hololens
+date: 2018-09-24T05:07:10.000+00:00
 author: John Doe
-image: images/blog/blog-post-1.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/WhatsApp Image 2020-04-12 at 9.59.39 PM.jpeg"
+bg_image: "/images/WhatsApp Image 2020-04-12 at 9.52.03 PM.jpeg"
 categories:
-- Company News
+- Future Tech News
 tags:
-- Advice
+- VR
 - Technology
 description: this is meta description
 type: post
