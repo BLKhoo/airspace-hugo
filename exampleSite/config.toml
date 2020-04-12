@@ -32,8 +32,8 @@ URL = "service"
 name = "Service"
 weight = 3
 [[menu.footer]]
-URL = "registration"
-name = "Registration"
+URL = "pricing"
+name = "Pricing"
 weight = 4
 [[menu.footer]]
 URL = "faq"
