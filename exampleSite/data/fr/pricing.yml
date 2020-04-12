@@ -38,6 +38,11 @@ pricing:
 cta:
   enable: true
 menu:
+  main:
+    URL: pricing
+    name: Registration
+    parent: Pages
+    weight: 1
   footer:
     URL: pricing
     name: Registration
