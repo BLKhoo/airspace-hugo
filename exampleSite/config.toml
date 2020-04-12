@@ -53,7 +53,7 @@ name = "Programme"
 weight = 2
 [[menu.main]]
 URL = "service"
-name = "Service"
+name = "Event"
 weight = 3
 [[menu.main]]
 URL = "blog"
