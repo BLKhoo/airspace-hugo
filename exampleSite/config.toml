@@ -53,10 +53,6 @@ weight = 4
 URL = "service"
 name = "Events"
 weight = 3
-[[menu.main]]
-URL = "project"
-name = "Programmes"
-weight = 2
 [params]
 author = ""
 contact_form_action = "#"
