@@ -1,10 +1,7 @@
 ---
 title: Robotic Process Automation
-description: 'Robotic process automation is a form of business process automation
-  technology based on metaphorical software robots or artificial intelligence workers.
-  In traditional workflow automation tools, a software developer produces a list of
-  actions to automate a task and interface to the back-end system using internal application
-  programming interfaces or dedicated scripting '
+description: 'RPA is a form of business process automation technology based on metaphorical
+  software robots or artificial intelligence workers. '
 image: images/portfolio/work2.jpg
 bg_image: images/featue-bg.jpg
 category: Illustration
