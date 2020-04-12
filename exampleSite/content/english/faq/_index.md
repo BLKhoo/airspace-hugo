@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 description: this is meta description
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
 date: 2020-03-23T07:05:29.000+00:00
-bg_image: images/featue-bg.jpg
+bg_image: images/WhatsApp Image 2020-04-12 at 9.52.03 PM.jpeg
 
 ---
 ### Welcome to G-Trek!
