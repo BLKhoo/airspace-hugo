@@ -28,11 +28,6 @@ URL = "faq"
 name = "FAQ"
 weight = 4
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-weight = 2
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
