@@ -3,7 +3,7 @@ title: Analytics with machine learning
 date: 2018-09-24T05:07:10.000+00:00
 author: John Doe
 image: "/images/company/about.jpg"
-bg_image: images/featue-bg.jpg
+bg_image: "/images/portfolio/work4.jpg"
 categories:
 - Company News
 tags:
@@ -13,7 +13,6 @@ tags:
 - Company
 description: this is meta description
 type: post
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere.
