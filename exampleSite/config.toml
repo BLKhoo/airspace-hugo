@@ -68,8 +68,8 @@ URL = "faq"
 name = "FAQ"
 parent = "Pages"
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
+URL = "registration"
+name = "Registration"
 parent = "Pages"
 [[menu.main]]
 URL = "contact"
