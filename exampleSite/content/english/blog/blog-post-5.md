@@ -1,9 +1,9 @@
 ---
-title: How To Wear Tech Gadget
-date: '2018-09-24T05:07:10.000+00:00'
+title: Augmented Reality in hazardous training
+date: 2018-09-24T05:07:10.000+00:00
 author: Mark Dinn
-image: images/blog/blog-post-5.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/WhatsApp Image 2020-04-12 at 9.43.21 PM (9).jpeg"
+bg_image: "/images/WhatsApp Image 2020-04-12 at 9.52.03 PM.jpeg"
 categories:
 - Artificial Intelligence
 tags:
