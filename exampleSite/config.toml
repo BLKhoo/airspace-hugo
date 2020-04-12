@@ -28,8 +28,8 @@ URL = "project"
 name = "Project"
 weight = 2
 [[menu.footer]]
-URL = "event"
-name = "Event"
+URL = "service"
+name = "Service"
 weight = 3
 [[menu.footer]]
 URL = "registration"
