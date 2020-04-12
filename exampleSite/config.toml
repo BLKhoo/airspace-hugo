@@ -45,7 +45,7 @@ name = "About"
 weight = 1
 [[menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Registration"
 parent = "Pages"
 weight = 1
 [[menu.main]]
