@@ -6,7 +6,7 @@ banner:
   content: The place where your learning of future technologies start
   button:
     enable: true
-    label: Discover the Programmes for your work
+    label: Discover the Programmes <br/>for your work
     link: project
 about:
   enable: true
