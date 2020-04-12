@@ -1,5 +1,5 @@
 ---
-title: Visual Analytics for  in-depth Insights
+title: Rio Furniture 3
 description: this is meta description
 image: images/portfolio/work6.jpg
 bg_image: images/featue-bg.jpg
