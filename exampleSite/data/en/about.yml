@@ -32,7 +32,7 @@ about:
     count: "20"
 features:
   enable: true
-  title: We are  G-Trek Digital Academy
+  title: Join the Events focusing on the frontier of technologies
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
