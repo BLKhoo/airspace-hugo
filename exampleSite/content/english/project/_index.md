@@ -1,6 +1,6 @@
 ---
-title: Your Enabling Programmes
-description: Your gateway to  working smart and being efficient
+title: Programmes
+description: this is meta description
 bg_image: images/featue-bg.jpg
 
 ---
