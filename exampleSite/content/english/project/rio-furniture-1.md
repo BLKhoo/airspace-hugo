@@ -1,7 +1,7 @@
 ---
 title: Predictive Analysis and Automation
 description: this is meta description
-image: images/portfolio/work1.jpg
+image: "/images/WhatsApp Image 2020-04-12 at 9.43.21 PM (7).jpeg"
 bg_image: images/featue-bg.jpg
 category: UI/UX Design
 information:
