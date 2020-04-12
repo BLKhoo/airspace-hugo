@@ -2,8 +2,8 @@
 title: Analytics with machine learning
 date: 2018-09-24T05:07:10.000+00:00
 author: John Doe
-image: "/images/company/about.jpg"
-bg_image: "/images/portfolio/work4.jpg"
+image: "/images/portfolio/work4.jpg"
+bg_image: "/images/binary-4942948_1280.jpg"
 categories:
 - Company News
 tags:
