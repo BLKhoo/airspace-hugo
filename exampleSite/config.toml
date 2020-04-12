@@ -69,7 +69,7 @@ name = "FAQ"
 parent = "Pages"
 [[menu.main]]
 URL = "pricing"
-name = "Registration"
+name = "Pricing"
 parent = "Pages"
 [[menu.main]]
 URL = "contact"
