@@ -1,7 +1,7 @@
 ---
-title: Rio Furniture 3
+title: Visual Analytics for  in-depth Insights
 description: this is meta description
-image: images/portfolio/work6.jpg
+image: "/images/WhatsApp Image 2020-04-12 at 9.43.21 PM (1).jpeg"
 bg_image: images/featue-bg.jpg
 category: Video
 information:
