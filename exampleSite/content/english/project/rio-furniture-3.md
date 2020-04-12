@@ -1,5 +1,5 @@
 ---
-title: Visual Recognition with Deep Learning
+title: Rio Furniture 2
 description: this is meta description
 image: images/portfolio/work3.jpg
 bg_image: images/featue-bg.jpg
