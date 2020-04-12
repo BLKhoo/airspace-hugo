@@ -2,7 +2,7 @@
 title: Augmented Reality in hazardous training
 date: 2018-09-24T05:07:10.000+00:00
 author: Mark Dinn
-image: images/blog/blog-post-5.jpg
+image: "/images/hazmat-suit-939710_1280.jpg"
 bg_image: "/images/hazmat-suit-939710_1280.jpg"
 categories:
 - Artificial Intelligence
