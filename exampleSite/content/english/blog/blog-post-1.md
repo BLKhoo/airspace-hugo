@@ -5,9 +5,9 @@ author: John Doe
 image: "/images/holodeck.jpg"
 bg_image: "/images/binary-4942948_1280.jpg"
 categories:
-- Company News
+- Future Tech News
 tags:
-- Advice
+- VR
 - Technology
 description: this is meta description
 type: post
