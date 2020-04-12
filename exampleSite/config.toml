@@ -57,10 +57,6 @@ weight = 3
 URL = "project"
 name = "Programmes"
 weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
 [params]
 author = ""
 contact_form_action = "#"

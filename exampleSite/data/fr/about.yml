@@ -99,6 +99,10 @@ mission_vision:
 cta:
   enable: true
 menu:
+  main:
+    URL: about
+    name: About
+    weight: 1
   footer:
     URL: about
     name: About
