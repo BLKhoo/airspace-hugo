@@ -1,25 +1,28 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : "images/portfolio/work2.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+title: Robotic Process Automation
+description: 'Robotic process automation is a form of business process automation
+  technology based on metaphorical software robots or artificial intelligence workers.
+  In traditional workflow automation tools, a software developer produces a list of
+  actions to automate a task and interface to the back-end system using internal application
+  programming interfaces or dedicated scripting '
+image: images/portfolio/work2.jpg
+bg_image: images/featue-bg.jpg
+category: Illustration
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
----
+- label: Client
+  info: Jannie Kelonsky
+- label: What We Did
+  info: Website Redesign
+- label: Tools Used
+  info: Photoshop,Illustrator
+- label: Completed on
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
 
+---
 ## Behance Website Redesign
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
