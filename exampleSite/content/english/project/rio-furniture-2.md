@@ -2,7 +2,7 @@
 title: Robotic Process Automation
 description: 'RPA is a form of business process automation technology based on metaphorical
   software robots or artificial intelligence workers. '
-image: images/portfolio/work2.jpg
+image: "/images/WhatsApp Image 2020-04-12 at 9.43.21 PM (10).jpeg"
 bg_image: images/featue-bg.jpg
 category: Illustration
 information:
