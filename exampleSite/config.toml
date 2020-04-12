@@ -52,7 +52,7 @@ URL = "Programmes"
 name = "Programmes"
 weight = 2
 [[menu.main]]
-URL = "Service"
+URL = "service"
 name = "Events"
 weight = 3
 [[menu.main]]
