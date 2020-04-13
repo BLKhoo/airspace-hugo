@@ -29,7 +29,7 @@ name = "Programmes"
 weight = 2
 [[menu.footer]]
 URL = "service"
-name = "Service"
+name = "Events"
 weight = 3
 [[menu.footer]]
 URL = "pricing"
