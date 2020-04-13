@@ -60,6 +60,7 @@ URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
+URL = "pages"
 hasChildren = true
 name = "Pages"
 weight = 5
