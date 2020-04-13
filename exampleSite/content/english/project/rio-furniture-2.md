@@ -1,5 +1,5 @@
 ---
-title: Augmented Reality in the Workplace
+title: Rio Furniture
 description: this is meta description
 image: images/portfolio/work2.jpg
 bg_image: images/featue-bg.jpg
