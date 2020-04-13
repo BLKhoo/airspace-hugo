@@ -57,7 +57,7 @@ name = "Events"
 weight = "3"
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "News"
 weight = 4
 [[menu.main]]
 URL = "pages"
