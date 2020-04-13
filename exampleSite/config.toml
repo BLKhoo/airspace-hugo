@@ -29,15 +29,15 @@ name = "FAQ"
 weight = 5
 [[menu.footer]]
 URL = "pricing"
-name = "Registration"
+name = "Pricing"
 weight = 4
 [[menu.footer]]
 URL = "service"
-name = "Events"
+name = "Service"
 weight = 3
 [[menu.footer]]
 URL = "project"
-name = "Programmes"
+name = "Project"
 weight = 2
 [[menu.main]]
 URL = "pricing"
