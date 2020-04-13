@@ -33,7 +33,7 @@ name = "Events"
 weight = 3
 [[menu.footer]]
 URL = "pricing"
-name = "Pricing"
+name = "Registration"
 weight = 4
 [[menu.footer]]
 URL = "faq"
