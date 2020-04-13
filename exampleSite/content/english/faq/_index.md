@@ -1,12 +1,13 @@
 ---
-title: Frequently Asked Questions
-description: this is meta description
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
-date: 2020-03-23T07:05:29.000+00:00
-bg_image: images/WhatsApp Image 2020-04-12 at 9.52.03 PM.jpeg
-
+title: "Frequently Asked Questions"
+description: "this is meta description"
+subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
+date: 2020-03-23T13:05:29+06:00
+draft: false
+bg_image: "images/featue-bg.jpg"
 ---
-### Welcome to G-Trek!
+
+### Welcome to Airspace!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
 repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
@@ -58,3 +59,4 @@ Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam 
 voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
 provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
 expedita, ad.
+  

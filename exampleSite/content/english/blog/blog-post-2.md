@@ -1,19 +1,17 @@
 ---
-title: 10 fold increase in the service counter capacity leveraging on the power of
-  technology
-date: 2018-09-24T05:07:10.000+00:00
+title: "How To Wear Bright Shoes"
+date: 2018-09-24T11:07:10+06:00
 author: Mark Dinn
-image: "/images/WhatsApp Image 2020-04-12 at 9.43.21 PM (5).jpeg"
-bg_image: "/images/WhatsApp Image 2020-04-12 at 9.52.03 PM.jpeg"
-categories:
-- Artificial Intelligence
-tags:
-- Advice
-- Retro
-description: this is meta description
-type: post
-
+image : "images/blog/blog-post-2.jpg"
+bg_image: "images/featue-bg.jpg"
+categories: ["Artificial Intelligence"]
+tags: ["Advice","Retro"]
+description: "this is meta description"
+draft: false
+type: "post"
 ---
+
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
 vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
 ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis

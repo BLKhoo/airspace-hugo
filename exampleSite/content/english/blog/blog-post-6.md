@@ -2,8 +2,8 @@
 title: Analytics with machine learning
 date: 2018-09-24T05:07:10.000+00:00
 author: John Doe
-image: "/images/WhatsApp Image 2020-04-12 at 9.43.21 PM (4).jpeg"
-bg_image: "/images/WhatsApp Image 2020-04-12 at 9.52.03 PM.jpeg"
+image: "/images/company/about.jpg"
+bg_image: images/featue-bg.jpg
 categories:
 - Company News
 tags:
@@ -15,10 +15,13 @@ description: this is meta description
 type: post
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
+vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
+ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
+a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
 
 > Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-> nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
 eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
@@ -28,11 +31,13 @@ nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pa
 at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
 eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
 
-      .blog-classic {
-      margin-bottom: 70px;
-      padding-bottom: 70px;
-      border-bottom: 1px solid #efefef;
-      }
+```
+  .blog-classic {
+  margin-bottom: 70px;
+  padding-bottom: 70px;
+  border-bottom: 1px solid #efefef;
+  }
+```
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
 commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
